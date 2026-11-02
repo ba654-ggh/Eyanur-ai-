@@ -1,0 +1,6 @@
+{
+  "name": "All Q&A - All Answers",
+  "description": "Get instant answers to all questions across science, general knowledge, math, history, daily curiosity, technology, and exam prep with bilingual Hindi and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
